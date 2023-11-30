@@ -1,0 +1,12 @@
+Flask
+Flask-MySQLdb
+gunicorn
+mysqlclient
+Flask-Mail
+Flask-Login
+Flask-SQLAlchemy
+Flask-WTF
+Flask-Security
+Flask-Bcrypt
+Werkzeug
+passlib
